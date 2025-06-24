@@ -1,0 +1,23 @@
+# Битрикс
+/bitrix/
+/upload/
+/local/php_interface/dbconn.php
+/local/php_interface/init.php
+/local/php_interface/.settings.php
+/license_key.php
+
+# Кэш, логи
+/cache/
+/tmp/
+/*.log
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
